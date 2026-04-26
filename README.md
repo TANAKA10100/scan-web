@@ -7,3 +7,12 @@ KE AMANAN = 100% AMAN
 
 BTW,SEGALA HAL YANG ANDA GUNAKAN PADA TOOLS SAYA.SAYA TIDAK BERTANGGUNG JAWAB DALEM KERUGIAN APAPUN.JADI GUNAKAN DENGAN BIJAK (-_-)
 
+cara memakai tools ini
+
+termux
+pkg update -y && pkg upgrade -y
+pkg install git
+pkg install python
+git clone https://github.com/TANAKA10100/scan-web.git
+cd scan-web
+python run.py
